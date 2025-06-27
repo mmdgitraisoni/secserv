@@ -1,7 +1,10 @@
 How to use:
 
-Install dependencies:
-pip install pywifi
-Run as administrator/root for best results.
-Execute:
+1.Install dependencies:
+
+2.pip install pywifi
+
+3.Run as administrator/root for best results.
+
+4.Execute:
 python wifi_security_analyzer.py
